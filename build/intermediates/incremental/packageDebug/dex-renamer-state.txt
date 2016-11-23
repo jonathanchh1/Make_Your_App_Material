@@ -1,4 +1,4 @@
-#Tue Nov 22 00:56:22 EST 2016
+#Wed Nov 23 00:41:04 EST 2016
 base.0=C\:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e9c2c87e1dfc806d0f07ffced688a2a97d74c512
 renamed.1=classes2.dex
 renamed.0=classes.dex

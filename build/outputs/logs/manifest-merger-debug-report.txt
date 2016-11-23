@@ -52,7 +52,7 @@ MERGED from [com.android.support:support-compat:25.0.1] C:\Users\jonat\Documents
 	android:icon
 		ADDED from C:\Users\jonat\Documents\GitHub\XYZReader\src\main\AndroidManifest.xml:13:9-43
 	android:theme
-		ADDED from C:\Users\jonat\Documents\GitHub\XYZReader\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\jonat\Documents\GitHub\XYZReader\src\main\AndroidManifest.xml:15:9-53
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from C:\Users\jonat\Documents\GitHub\XYZReader\src\main\AndroidManifest.xml:17:9-24:20
 	android:label

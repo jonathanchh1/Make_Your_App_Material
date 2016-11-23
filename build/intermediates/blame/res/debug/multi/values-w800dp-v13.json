@@ -77,6 +77,25 @@
                         "endOffset": 206
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 25,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\values-w800dp\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 32,
+                        "endOffset": 87
+                    }
+                }
             }
         ]
     }

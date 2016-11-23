@@ -121,9 +121,28 @@
                     "startLine": 8,
                     "startColumn": 4,
                     "startOffset": 438,
-                    "endLine": 11,
+                    "endColumn": 25,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\values-land\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 32,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endLine": 12,
                     "endColumn": 12,
-                    "endOffset": 615
+                    "endOffset": 641
                 },
                 "from": {
                     "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\values-land\\values-land.xml",

@@ -558,9 +558,28 @@
                     "startLine": 31,
                     "startColumn": 4,
                     "startOffset": 1901,
-                    "endLine": 34,
+                    "endColumn": 25,
+                    "endOffset": 1922
+                },
+                "from": {
+                    "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 32,
+                        "endOffset": 87
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1927,
+                    "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 2078
+                    "endOffset": 2104
                 },
                 "from": {
                     "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

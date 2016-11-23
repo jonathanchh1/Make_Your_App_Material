@@ -58,6 +58,25 @@
                         "endOffset": 128
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 25,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\values-sw600dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 32,
+                        "endOffset": 87
+                    }
+                }
             }
         ]
     }

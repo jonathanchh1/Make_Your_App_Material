@@ -5,10 +5,10 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent">
 
-<com.example.xyzreader.ui.ObservableScrollView
-    android:id="@+id/scrollview"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    <com.example.xyzreader.ui.ObservableScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
         <FrameLayout
             android:layout_width="match_parent"
@@ -25,7 +25,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="fill_parent"
                     android:scaleType="centerCrop"
-                     />
+                    />
 
                 <View
                     android:layout_width="match_parent"
@@ -107,11 +107,10 @@
         android:src="@drawable/ic_share"
         android:elevation="@dimen/fab_elevation"
         android:contentDescription="@string/action_share"
+        app:layout_behavior="com.example.xyzreader.ui.ScrollViewfaBBehavior"
+        app:pressedTranslationZ="@dimen/fab_press_translation_z"
         app:fabSize="normal"
-        app:elevation="6dp"
-        app:pressedTranslationZ="12dp"
         app:borderWidth="0dp"
         app:layout_anchorGravity="bottom|right|end"/>
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
-

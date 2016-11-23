@@ -47,7 +47,8 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <android.support.v4.widget.SwipeRefreshLayout
             android:id="@+id/swipe_refresh_layout"
@@ -60,14 +61,13 @@
                 android:layout_height="match_parent"
                 android:clipToPadding="false"
                 android:scrollbarStyle="outsideOverlay"
-                android:paddingTop="180dp"
+                android:paddingTop="@dimen/list_side_margin"
                 android:paddingLeft="@dimen/list_side_margin"
                 android:paddingRight="@dimen/list_side_margin"
                 android:paddingBottom="28dp" />
 
         </android.support.v4.widget.SwipeRefreshLayout>
     </FrameLayout>
-
 
 
 </android.support.design.widget.CoordinatorLayout>

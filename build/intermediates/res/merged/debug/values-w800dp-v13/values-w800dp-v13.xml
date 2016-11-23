@@ -4,4 +4,5 @@
     <dimen name="list_side_margin">64dp</dimen>
     <dimen name="list_toolbar_side_margin">52dp</dimen>
     <integer name="list_column_count">3</integer>
+    <style name="Theme"/>
 </resources>

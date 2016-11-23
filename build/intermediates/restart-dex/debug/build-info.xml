@@ -5,60 +5,50 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1032815965321813"
-    token="-3562012101771415926"
-    verifier="CLASS_ADDED" >
+    timestamp="1124640151622399"
+    token="-3562012101771415926" >
 
     <task
         name="javac"
-        duration="19207" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2090" />
+        duration="0" />
     <task
         name="verifier"
-        duration="59" />
-
-    <artifact
-        location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        duration="0" />
 
     <build
-        timestamp="1028171139967573"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="1113512287530666"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\jonat\Documents\GitHub\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="1030366837694720"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1030539288895146"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="1032815965321813"
+        timestamp="1119320179982933"
         verifier="CLASS_ADDED" >
         <artifact
             location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
     </build>
+    <build
+        timestamp="1122312190148693"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1124330782920106"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\jonat\Documents\GitHub\XYZReader\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="1124640151622399" />
 
 </instant-run>

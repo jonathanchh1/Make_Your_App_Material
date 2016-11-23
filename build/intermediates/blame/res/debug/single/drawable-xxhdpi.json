@@ -8,10 +8,6 @@
         "source": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_share.png"
     },
     {
-        "merged": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fab_plus.png",
-        "source": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\fab_plus.png"
-    },
-    {
         "merged": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_arrow_back.png",
         "source": "C:\\Users\\jonat\\Documents\\GitHub\\XYZReader\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
     }
